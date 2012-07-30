@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Smart Buttons for GitHub</title>
+  <link href="styles/smart_buttons.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="js/jquery.smartButtons.js"></script>
+  <script type="text/javascript">
+      $(document).ready(function(){
+          // Smart Buttons
+          $('#sbuttons').smartButtons({user: 'techlab',repo:'SmartCart2'});
+          
+          $('#sbuttons2').smartButtons({user: 'techlab',repo:'SmartWizard2'});
+          
+          $('#sbuttons3').smartButtons({user: 'techlab',repo:'SmartTab'});          
+      });                
+  </script>
+</head>
+<body>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr><td> 
+    <!-- Smart Buttons -->
+    <div id="sbuttons"></div>
+    <br /><br />
+    <div id="sbuttons2"></div>
+    <br /><br />
+    <div id="sbuttons3"></div>    
+    
+</td></tr>
+</table>
+
+</body>
+</html>
