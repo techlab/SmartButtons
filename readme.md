@@ -1,6 +1,6 @@
 Overview
 --------
-Smart Buttons
+Smart Buttons 
 Social buttons for GitHub
 
 Inspired from:
