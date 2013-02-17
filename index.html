@@ -5,15 +5,15 @@
   <title>Smart Buttons for GitHub</title>
   <link href="styles/smart_buttons.css" rel="stylesheet" type="text/css" />
   <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
-  <script type="text/javascript" src="js/jquery.smartButtons.js"></script>
+  <script type="text/javascript" src="js/jquery.smartButtons.min.js"></script>
   <script type="text/javascript">
       $(document).ready(function(){
           // Smart Buttons
-          $('#sbuttons').smartButtons({user: 'techlab',repo:'SmartCart2',size:'small'});
+          $('#sbuttons').smartButtons({user: 'techlab',repo:'SmartCart',size:'small'});
           
           $('#sbuttons2').smartButtons({user: 'techlab',repo:'SmartTab',size:'medium'});
           
-          $('#sbuttons3').smartButtons({user: 'techlab',repo:'SmartWizard2',size:'large',
+          $('#sbuttons3').smartButtons({user: 'techlab',repo:'SmartWizard',size:'large',
                                         forkButton: {'show':true, 'count':true, 'text':'Fork'},
                                         starButton: {'show':true, 'count':true, 'text':'Star'},
                                         followButton: {'show':true, 'count':true, 'text':'Follow'}  

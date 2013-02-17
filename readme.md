@@ -4,13 +4,25 @@ Smart Buttons
 Social buttons for GitHub
 
 Inspired from:
-[http://markdotto.github.com/github-buttons/](http://markdotto.github.com/github-buttons/)
+[http://ghbtns.com/)
 
+Version
+-----
+Current version: 1.0.0
+
+Demos
+-----
+
+Features
+--------
+    Easy to implement
+    Customizable buttons
+    Real-time GitHub counts
+    GutHub star, fork and follow buttons
 
 License
 -------
 Free to use and modify on both personal and commercial environment
 
-Creative Commons License
-Licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-sa/3.0/)
- 
+[MIT License](https://github.com/techlab/SmartButtons/blob/master/MIT-LICENSE.txt)
+([more](http://en.wikipedia.org/wiki/MIT_License))

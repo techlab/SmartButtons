@@ -1,9 +1,8 @@
 /* 
- * Smart Buttons for GitHub 1.0
- * by Dipu
- * 
+ * Smart Buttons 1.0
+ * Social buttons for GitHub
+ * by Dipu Raj
  * http://www.techlaboratory.net 
- * http://tech-laboratory.blogspot.com
  * 
  * Inspired from:
  * http://markdotto.github.com/github-buttons/
