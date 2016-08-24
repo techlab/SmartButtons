@@ -1,5 +1,6 @@
 
-    The project is Deprecated. Please use (https://buttons.github.io/) or (https://ghbtns.com/) for generating your GitHub buttons 
+> The project is Deprecated.                      
+> Please use https://buttons.github.io/ or https://ghbtns.com/ for generating your GitHub buttons 
 
 Overview
 --------
