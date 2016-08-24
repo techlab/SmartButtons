@@ -1,10 +1,13 @@
+
+    The project is Deprecated. Please use (https://buttons.github.io/) or (https://ghbtns.com/) for generating your GitHub buttons 
+
 Overview
 --------
 Smart Buttons 
 Social buttons for GitHub
 
 Inspired from:
-[http://ghbtns.com/)
+(http://ghbtns.com/)
 
 Version
 -----
